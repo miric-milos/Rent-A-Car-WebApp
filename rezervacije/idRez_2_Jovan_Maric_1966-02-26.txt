@@ -1,0 +1,3 @@
+Rezervacija ( id_auto: 2; datum_od: 2020-01-21; datum_do: 2020-01-24; cena: 105; id_naloga: 4; ) 
+Nalog ( id_naloga: Jovan; id_naloga: Marić; id_naloga: 1966-02-26; id_naloga: 00626132668; id_naloga: jovanmaric@gmail.com; id_naloga: 51234982; )
+Automobil ( id_naloga: 2; id_naloga: Stilo; id_naloga: Fiat; id_naloga: 2003; id_naloga: 1623; id_naloga: Karavan; id_naloga: Benzin+Gas (TNG); id_naloga: Prednji; id_naloga: Automatik; id_naloga: 5; id_naloga: fiatStiloJTD.jpg; id_naloga: 35; id_naloga: 0;  )

@@ -1,0 +1,33 @@
+#navbarDropdown, .register {
+    color: rgb(240, 240, 240);
+    font-size: medium;
+}
+
+#navbarDropdown:hover, .register:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item .dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown:hover>.dropNav {
+    display: block;
+}
+
+
+.modalDialogLog{
+    transition-delay: 2s;
+}
+
+.dropNalogIme{
+    text-decoration: none;
+    color: white;
+}
+
+.dropNalogIme:hover{
+    background-color: #a4asadb3;
+    text-decoration: none;
+    color: white;
+}

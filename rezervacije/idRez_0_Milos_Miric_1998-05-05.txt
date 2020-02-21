@@ -1,0 +1,3 @@
+Rezervacija ( id_auto: 21; datum_od: 2020-02-19; datum_do: 2020-02-29; cena: 190; id_naloga: 13; ) 
+Nalog ( id_naloga: Milos; id_naloga: Miric; id_naloga: 1998-05-05; id_naloga: 00616777197; id_naloga: miricja@gmail.com; id_naloga: 12345678; )
+Automobil ( id_naloga: 21; id_naloga: pegla; id_naloga: Peglica; id_naloga: 2001; id_naloga: 2110; id_naloga: Kupe; id_naloga: Benzin; id_naloga: Zadnji; id_naloga: Manualni; id_naloga: 5; id_naloga: volkswagenJetta.jpg; id_naloga: 0; id_naloga: 19;  )

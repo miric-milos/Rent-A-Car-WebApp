@@ -1,0 +1,16 @@
+#naslov h1 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#pitanja {
+    text-align: center;
+    background-color: #dde0e5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#pitanja .display-4 {
+    font-size: 32px;
+}
